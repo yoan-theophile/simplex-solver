@@ -1,0 +1,7 @@
+QPushButton:hover {{
+    cursor: pointer;
+}}
+
+QLineEdit {{
+    font-size: 20px;
+}}
