@@ -12,7 +12,6 @@ Pour s'exécuter il requiert l'installation des librairies suivantes:
 ## Contact
 
 - Live in: Cameroun
-- Phone number: +237 675741063
 - Email: tagnepierre9@gmail.com
 
 Feel free to enjoy and share.
